@@ -2,7 +2,7 @@
 
 import { Controller, FormProvider, useForm } from "react-hook-form";
 import { type BaseDialogProps, Dialog } from "@/components/ui/dialog";
-import { InputField } from "@/components/ui/input/Field";
+import { InputField } from "@/components/ui/input/field";
 import { Button } from "@/components/ui/button";
 
 type FormData = {
