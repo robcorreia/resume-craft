@@ -32,18 +32,18 @@ export const ResumePage = () => {
       projects: [],
       skills: [],
       socialMedias: [
-        {
-          icon: "",
-          name: "test 1",
-          url: "teste 1",
-          username: "teste 1",
-        },
-        {
-          icon: "",
-          name: "test 2",
-          url: "teste 2",
-          username: "teste 2",
-        },
+        // {
+        //   icon: "",
+        //   name: "test 1",
+        //   url: "teste 1",
+        //   username: "teste 1",
+        // },
+        // {
+        //   icon: "",
+        //   name: "test 2",
+        //   url: "teste 2",
+        //   username: "teste 2",
+        // },
       ],
     },
   };
